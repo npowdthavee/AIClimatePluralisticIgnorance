@@ -154,4 +154,4 @@ Screenshots documenting this interaction-dependent structure are included in the
 
 ## Contact and issues
 
-For questions or comments, please open an issue on this repository.
+For questions or comments, please contact nick.powdthavee@ntu.edu.sg. 
