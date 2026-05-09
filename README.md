@@ -17,7 +17,7 @@ The analysis proceeds in four steps:
 1. Construction of country-level ground-truth measures from survey data  
 2. Elicitation of predictions from multiple LLMs using controlled prompts  
 3. Evaluation against statistical benchmarks  
-4. Diagnostic tests designed to distinguish structured inference from data exposure  
+4. Diagnostic and memorisation falsification tests designed to distinguish structured inference from data exposure  
 
 ---
 
@@ -125,7 +125,7 @@ notebooks/
 └── 18_generate_publication_figures.ipynb
 └── 19_Robustness check with N=112.ipynb
 └── 20_Produce OLS coefficient plots.ipynb
-
+└── 21_memorisation_robustness_checks.ipynb
 
 figures/
 └── (generated outputs)
